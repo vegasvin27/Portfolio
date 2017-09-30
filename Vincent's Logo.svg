@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <rect
+       style="stroke-width:0.26458332"
+       y="57.363094"
+       x="37.041668"
+       height="120.95238"
+       width="127"
+       id="rect3680" />
+    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:48.0000006px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       id="flowRoot3682"
+       xml:space="preserve"><flowRegion
+         style="font-size:48.0000006px;"
+         id="flowRegion3684"><rect
+           style="font-size:48.0000006px;"
+           y="331.09113"
+           x="208.57143"
+           height="237.14285"
+           width="340"
+           id="rect3686" /></flowRegion><flowPara
+         id="flowPara3688" /></flowRoot>    <flowRoot
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot3690"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3692"><rect
+           y="573.94824"
+           x="525.71429"
+           height="100"
+           width="94.285736"
+           id="rect3694" /></flowRegion><flowPara
+         id="flowPara3696"></flowPara></flowRoot>    <text
+       transform="scale(0.90566084,1.1041661)"
+       id="text3700"
+       y="142.04121"
+       x="44.792274"
+       style="font-style:normal;font-weight:normal;font-size:99.59624481px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.48990631"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:2.48990631"
+         y="142.04121"
+         x="44.792274"
+         id="tspan3698">VT</tspan></text>
+  </g>
+</svg>
